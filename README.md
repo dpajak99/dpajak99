@@ -20,7 +20,6 @@ I am looking for a mentor who will lead me through the world of programming, and
 - Learning, learning, learning!
 
 #### Things I am challenging myself with:
-- Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Planning day on whiteboard
 - Read more books :smile:
