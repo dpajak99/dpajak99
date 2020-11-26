@@ -10,7 +10,7 @@ Welcome to my Github page! I am Dominik and and I am currently studying at the "
 A year ago, I just started my real programming adventure, but for the last 7 years I have been learning web technologies on my own.
 I am looking for a mentor who will lead me through the world of programming, and some designer to make my projects better :)
 
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=dpajak99&show_icons=true&hide_border=true"/>
+<img width="41%" align="right" src="https://github-readme-stats.vercel.app/api?username=dpajak99&show_icons=true&hide_border=true"/>
 
 #### Things I am currently working on:
 - Projects for my university
