@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-0D8CF0?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/dpajak99/)
 
 
-Welcome to my Github page! I am Dominik and and I am currently studying at the "Państwowa Wyższa Szkoła Zawodowa" in Tarnow in Poland<br />
+I am Dominik and and I am currently studying at the PWSZ in Tarnow in Poland<br />
 A year ago, I just started my real programming adventure, but for the last 7 years I have been learning web technologies on my own.
 I am looking for a mentor who will lead me through the world of programming, and some designer to make my projects better :)
 
@@ -18,11 +18,6 @@ I am looking for a mentor who will lead me through the world of programming, and
 - Android app with the current timetable of buses in my city
 - My personal portfolio
 - Learning, learning, learning!
-
-#### Things I am challenging myself with:
-- Coding at least 4 hours a day
-- Planning day on whiteboard
-- Read more books :smile:
 
 #### :computer: Programming languages and tools:
 
