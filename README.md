@@ -19,8 +19,6 @@ I am looking for a mentor who will lead me through the world of programming, and
 - My personal portfolio
 - Learning, learning, learning!
 
-#### :computer: Programming languages and tools:
-
 ### Actually in my heart: </br>
 ![Flutter](http://img.shields.io/badge/-FLUTTER-000000?style=for-the-badge&logo=flutter)
 ![Android](http://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=android)
