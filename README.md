@@ -17,7 +17,7 @@ I am looking for a mentor who will lead me through the world of programming, and
 - Flutter app for the Warsaw charity organization "Włączeni"
 - Android app with the current timetable of buses in my city
 - My personal portfolio
-- Learning, learning, learning!
+- Learning, learning, learning!!
 
 ### Actually in my heart: </br>
 ![Flutter](http://img.shields.io/badge/-FLUTTER-000000?style=for-the-badge&logo=flutter)
