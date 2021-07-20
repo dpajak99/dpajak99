@@ -42,11 +42,6 @@ I am looking for a mentor who will lead me through the world of programming, and
 ![Figma](http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 ![Clockify](http://img.shields.io/badge/-Clockify-000000?style=for-the-badge&logo=clockify)
 
-### In my free time Im trying to learn: </br>
-![Node.js](http://img.shields.io/badge/-Node.Js-888888?style=for-the-badge&logo=npm)
-![React](http://img.shields.io/badge/-React-888888?style=for-the-badge&logo=react)
-![Sass](http://img.shields.io/badge/-Sass-888888?style=for-the-badge&logo=sass)
-
 
 
 ![ViewCount](https://views.whatilearened.today/views/github/dpajak99/dpajak99.svg?cache=remove)
