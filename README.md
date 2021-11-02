@@ -8,12 +8,6 @@
 
 <img width="41%" align="right" src="https://github-readme-stats.vercel.app/api?username=dpajak99&show_icons=true&hide_border=true"/>
 
-#### Things I am currently working on:
-- Projects for my university
-- Flutter app for the Warsaw charity organization "Włączeni"
-- Android app with the current timetable of buses in my city
-- My personal portfolio
-- Learning, learning, learning!!
 
 ### Actually in my heart: </br>
 ![Flutter](http://img.shields.io/badge/-FLUTTER-000000?style=for-the-badge&logo=flutter)
