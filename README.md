@@ -9,7 +9,7 @@
 <img width="41%" align="right" src="https://github-readme-stats.vercel.app/api?username=dpajak99&show_icons=true&hide_border=true"/>
 
 
-### Actually in my heart: </br>
+### Currently in my heart: </br>
 ![Flutter](http://img.shields.io/badge/-FLUTTER-000000?style=for-the-badge&logo=flutter)
 ![Android](http://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=android)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java)
