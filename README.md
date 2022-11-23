@@ -32,6 +32,7 @@
 ![Figma](http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 ![Clockify](http://img.shields.io/badge/-Clockify-000000?style=for-the-badge&logo=clockify)
 
-
+NOTES
+https://www.overleaf.com/read/jwmppgrzfnhh
 
 ![ViewCount](https://views.whatilearened.today/views/github/dpajak99/dpajak99.svg?cache=remove)
