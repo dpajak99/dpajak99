@@ -1,5 +1,6 @@
-### Hi there 👋
 <img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=dpajak99&show_icons=true&hide_border=true"/>
+
+### Hi there 👋
 ### I am Dominik Pająk
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dpajak99)
