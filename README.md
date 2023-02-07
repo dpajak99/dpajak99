@@ -1,13 +1,11 @@
 ### Hi there 👋
 ### I am Dominik Pająk
+<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=dpajak99&show_icons=true&hide_border=true"/>
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dpajak99)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominikpajak/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dominik00801@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-0D8CF0?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/dpajak99/)
-
-
-<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=dpajak99&show_icons=true&hide_border=true"/>
-
 
 ### Currently in my heart: </br>
 ![Flutter](http://img.shields.io/badge/-FLUTTER-000000?style=for-the-badge&logo=flutter)
