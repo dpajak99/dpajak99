@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-0D8CF0?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/dpajak99/)
 
 
-<img width="41%" align="right" src="https://github-readme-stats.vercel.app/api?username=dpajak99&show_icons=true&hide_border=true"/>
+<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=dpajak99&show_icons=true&hide_border=true"/>
 
 
 ### Currently in my heart: </br>
