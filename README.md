@@ -6,13 +6,13 @@ I am knowledgeable in various database systems, including Mongo and Postgres, fr
 
 Currently, I am leading tarBUS, a startup that grew out of a personal project. My passion extends to open-sourcing and leveraging technology for social good.
 
-#### Education & Achievements: <br>
+#### Education & Achievements:
 👨‍💻 BS. Applied Computer Science <br>
 🎓 University of Applied Sciences in Tarnów <br>
 
 <img align="right" alt="GIF" src="assets/code.gif" width="380" height="250" />
 
-#### Skills<br>
+#### Skills
    ✨ Web and Mobile App Development<br>
    ✨ Project Management<br>
    ✨ Blockchain Fundamentals<br>
