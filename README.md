@@ -48,8 +48,6 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 </div>
 
 <br>
-<br>
-<br>
 
 ## Featured projects
 <table>
