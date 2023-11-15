@@ -10,7 +10,8 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 👨‍💻 BS. Applied Computer Science <br>
 🎓 University of Applied Sciences in Tarnów <br>
 
-<img align="right" alt="GIF" src="assets/code.gif" width="380" height="250" />
+<img align="right" alt="GIF" src="assets/code.gif" width="380" height="250"/>
+
 
 #### Skills
    ✨ Web and Mobile App Development<br>
