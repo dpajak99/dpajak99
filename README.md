@@ -50,7 +50,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 <br>
 <br>
 
-## Client Projects And Apps on The Stores
+## Featured projects
 <table>
 	<tbody width="100%">
 	<tr>
