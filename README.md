@@ -12,6 +12,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 
 #### Some things I have extensive experience with:
 <img align="right" alt="GIF" src="assets/code.gif" width="380" height="250" />
+
 #### Skills<br>
    ✨ Web and Mobile App Development<br>
    ✨ Project Management<br>
