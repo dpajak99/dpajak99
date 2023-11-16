@@ -63,19 +63,19 @@ This codebase is published as a memento of my early days in programming. It's a 
                 <li>
                     <a href="https://github.com/dpajak99/tarbus-poc">tarbus-poc - Internship project (2020)</a>
                     <p>
-                        The tarbus-poc application was developed as part of an internship at SOFTAREA. It shows the actual departure times of buses from a bus stop, using the api of Tarnów Public Transport. In addition, we can check the timetable for a given bus stop and a given line offline, display a list of the nearest bus stops and search for a bus connection online.<br><br>
+                        The tarbus-poc application was developed as part of an internship at SOFTAREA. It shows the actual departure times of buses from a bus stop, using the api of Tarnów Public Transport. In addition, we can check the timetable for a given bus stop and a given line offline, display a list of the nearest bus stops and search for a bus connection online.
                     </p>
                 </li>
                 <li>
                     <a href="https://github.com/dpajak99/softarea-learning-app">Softarea Learning App - Internship project (2020)</a>
                     <p>
-                      An application that supports team and company management. At the moment it allows you to log into the apllication (Local database), create and delete notes.<br><br>
+                      An application that supports team and company management. At the moment it allows you to log into the apllication (Local database), create and delete notes.
                     </p>
                 </li>
                 <li>
                     <a href="https://github.com/dpajak99/jemy-w-tarnowie">Jemy w Tarnowie - Internship project (2020)</a>
                     <p>
-                      Unofficial app for <a href="https://www.jemywtarnowie.pl/">Jemy w Tarnowie</a> company. Created for learning purposes.<br><br>
+                      Unofficial app for <a href="https://www.jemywtarnowie.pl/">Jemy w Tarnowie</a> company. Created for learning purposes.
                     </p>
                 </li>
             </ul>
@@ -83,8 +83,6 @@ This codebase is published as a memento of my early days in programming. It's a 
     </tr>
 	</tbody>
 </table>
-
-<br>
 
 ---
 
