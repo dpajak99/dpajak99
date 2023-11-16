@@ -11,7 +11,7 @@ This codebase is published as a memento of my early days in programming. It's a 
 		<td>
          <img width="800px" src="assets/tetris.gif" alt="Tetris - School Project (2018)" />
 			<h3>Tetris - School Project (2018)</h3>
-			<p>Tetris game was created as a school project in 2018. It's a simple implementation of the classic puzzle game where blocks fall and must be arranged to clear lines and gain points.</p>
+			<p>Tetris game was created as a school project in 2018. It's a simple implementation of the classic puzzle game where blocks fall and must be arranged to clear lines and gain points.</p><br>
 		</td>
 		<td>
 			<div>
@@ -23,7 +23,7 @@ This codebase is published as a memento of my early days in programming. It's a 
 		<td>
          <img width="800px" src="assets/dungeon.gif" alt="Dungeon Game - School Project (2017)" />
 			<h3>Dungeon Game - School Project (2017)</h3>
-			<p>Dungeon Game was created as a school project in 2017. It's a simple implementation of the classic dungeon exploration game where user has to find specific point on the map.</p>
+			<p>Dungeon Game was created as a school project in 2017. It's a simple implementation of the classic dungeon exploration game where user has to find specific point on the map.</p><br>
 		</td>
 		<td>
            <div>
@@ -35,7 +35,7 @@ This codebase is published as a memento of my early days in programming. It's a 
 		<td>
          <img width="800px" src="assets/bookweb.png" alt="Bookweb - School Project (2017)" />
 			<h3>Bookweb - School Project (2017)</h3>
-			<p>This project was developed for a school project in 2017. It is a simple web application that allows users to search for books and add them to their personal library. The application allows to search for books and retrieve information about them.</p>
+			<p>This project was developed for a school project in 2017. It is a simple web application that allows users to search for books and add them to their personal library. The application allows to search for books and retrieve information about them.</p><br>
 		</td>
 		<td>
            <div>
@@ -47,7 +47,7 @@ This codebase is published as a memento of my early days in programming. It's a 
 		<td>
          <img width="800px" src="assets/ginibeer.gif" alt="Ginibeer - School Project (2017)" />
 			<h3>Ginibeer - School Project (2017)</h3>
-			<p>Project created during internship named "Create your own business". - logo and website are created for a fictional company. The website is a simple presentation page with.</p>
+			<p>Project created during internship named "Create your own business". - logo and website are created for a fictional company. The website is a simple presentation page with.</p><br>
 		</td>
 		<td>
            <div>
@@ -75,7 +75,7 @@ This codebase is published as a memento of my early days in programming. It's a 
                 <li>
                     <a href="https://github.com/dpajak99/jemy-w-tarnowie">Jemy w Tarnowie - Internship project (2020)</a>
                     <p>
-                      Unofficial app for <a href="https://www.jemywtarnowie.pl/">Jemy w Tarnowie</a> company. Created for learning purposes.
+                      Unofficial app for <a href="https://www.jemywtarnowie.pl/">Jemy w Tarnowie</a> company. Created for learning purposes.<br>
                     </p>
                 </li>
             </ul>
