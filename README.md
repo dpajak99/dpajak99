@@ -49,7 +49,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 
 <br>
 
-## Featured projects
+### Featured projects
 <table>
 	<tbody width="100%">
 	<tr>
@@ -98,6 +98,6 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 	</tbody>
 </table>
 
-## Other
+### Other
 
 📁 [Archived projects](https://github.com/dpajak99/dpajak99/blob/main/PROJECTS_ARCHIVE.md) 
