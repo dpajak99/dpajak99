@@ -58,7 +58,7 @@ This codebase is published as a memento of my early days in programming. It's a 
     <tr>
         <td colspan="2">
            <br>
-           <b>Other projects</b><br>
+           <b>Other projects</b><br><br>
             <ul>
                 <li>
                     <a href="https://github.com/dpajak99/tarbus-poc">tarbus-poc - Internship project (2020)</a>
