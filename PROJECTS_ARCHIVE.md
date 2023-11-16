@@ -87,4 +87,4 @@ This codebase is published as a memento of my early days in programming. It's a 
 ---
 
 **NOTE**<br>
-*These projects are a documentation of my beginnings in the coding world and is published solely for archival purposes.*
+*These projects are a documentation of my beginnings in the coding world and they are published solely for archival purposes.*
