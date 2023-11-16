@@ -97,3 +97,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 	</tr>
 	</tbody>
 </table>
+
+## Other
+
+[📁 Archived projects](https://github.com/dpajak99/dpajak99/PROJECTS_ARCHIVE.md) 
