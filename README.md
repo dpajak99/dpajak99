@@ -95,6 +95,21 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 			</div>
 		</td>
 	</tr>
+    <tr>
+		<td>
+         <img width="800px" src="assets/ankietaobywatelska.png" alt="Ankieta Obywatelska (eng. Citizen survey) - 🥇 2nd place Hackaton project" />
+			<h3>Ankieta Obywatelska (eng. Citizen survey) - 🥇 2nd place Hackaton project</h3>
+			<p>As a member of the SleipnJs team, I contributed to the creation of the 'Ankieta Obywatelska' project, showcased at <a href="https://hacknarok.pl/">Hacknarök</a> 2021. This platform is designed to generate and collect surveys and petitions on current social issues like ecology, protests, COVID-19, and remote learning and working. It stands out for its verification system that prevents multiple responses from the same user.</p>
+			<p>🗓 28 March 2021 - 29 March 2021 (24 hours)</p>
+		</td>
+		<td>
+           <div>
+           🔗 <a href="https://devpost.com/software/sleipnjs-ankieta-wyborcza">Devpost</a><br>
+           🔗 <a href="https://github.com/SleipnJs/frontend-ankieta-obywatelska">Frontend</a><br>
+           🔗 <a href="https://github.com/SleipnJs/backend-ankieta-obywatelska">Backend</a>
+			</div>
+		</td>
+	</tr>
 	</tbody>
 </table>
 
