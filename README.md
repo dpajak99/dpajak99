@@ -83,7 +83,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 		<td>
          <img width="800px" src="assets/kira.png" alt="KIRA Blockchain Explorer (miro)" />
 			<h3>KIRA Blockchain Explorer (miro)</h3>
-			<p>Blockchain explorer for <a href="https://kira.network/">KIRA Network</a>. I'm a team member and I work on this app as a Flutter Developer</p>
+			<p>As a full-stack developer, I contributed to the 'Miro' project, a Blockchain Explorer for the <a href="https://kira.network">Kira Network</a>. This tool is designed to provide transparent and real-time insights into transactions, blocks, and validators within the Kira Network. Miro stands out for its ability to navigate the complex data of a decentralized network, offering users an intuitive and comprehensive view of blockchain activities.</p>
 			<p>🗓 November 2021 - Now (~ 2 years)</p>
 		</td>
 		<td>
