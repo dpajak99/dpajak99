@@ -139,6 +139,29 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 	</tr>
     <tr>
 		<td>
+         <img width="800px" src="assets/tarbus.png" alt="Bus timetable in your pocket (tarBUS)" />
+			<h3>Bus timetable in your pocket (tarBUS)</h3>
+			<p>My original project, of which I'm the owner, Java, Flutter/Dart developer and team leader. The tarBUS app was created for passengers of the <a href="https://gkp.tarnow.pl/">Bus Public Transport</a> in Tarnów (Poland). With it, you can easily and quickly check the departure from any stop on the route of T-lines</p>
+			<p>🗓 December 2020 - 31 October 2023 (~ 3 years)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.dpajak99.tarbus2021&hl=pl&gl=US">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="EFN on Google Play" />
+            </a>
+			</div>
+			<div>
+           <a href="https://apps.apple.com/pl/app/tarbus/id1554556128">
+               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="EFN on iOS App Store" />
+          </a>
+			</div>
+			<div>
+           🔗 <a href="https://tarbus.pl/">Website</a>
+			</div>
+		</td>
+	</tr>
+    <tr>
+		<td>
          <img width="800px" src="assets/ankietaobywatelska.png" alt="Ankieta Obywatelska (eng. Citizen survey) - 🥇 2nd place Hackaton project" />
 			<h3>Ankieta Obywatelska (eng. Citizen survey) - 🥇 2nd place Hackaton project</h3>
 			<p>As a member of the SleipnJs team, I contributed to the creation of the 'Ankieta Obywatelska' project, showcased at <a href="https://hacknarok.pl/">Hacknarök</a> 2021. This platform is designed to generate and collect surveys and petitions on current social issues like ecology, protests, COVID-19, and remote learning and working. It stands out for its verification system that prevents multiple responses from the same user.</p>
