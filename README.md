@@ -61,7 +61,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
          <img width="800px" src="assets/tarbus.png" alt="Bus timetable in your pocket (tarBUS)" />
 			<h3>Bus timetable in your pocket (tarBUS)</h3>
 			<p>My original project, of which I'm the owner, Java, Flutter/Dart developer and team leader. The tarBUS app was created for passengers of the <a href="https://gkp.tarnow.pl/">Bus Public Transport</a> in Tarnów (Poland). With it, you can easily and quickly check the departure from any stop on the route of T-lines</p>
-			<p>🗓 December 2020 - Now (~ 3 years)</p>
+			<p>🗓 December 2020 - 31 October 2023 (~ 3 years)</p>
 		</td>
 		<td>
 			<div>
@@ -127,7 +127,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
     <tr>
 		<td>
          <img width="800px" src="assets/cryptography_utils.png" alt="cryptography_utils (SNGGLE)" />
-			<h3>mrumru</h3>
+			<h3>cryptography_utils</h3>
 			<p>As a full-stack developer, I'm contributing to the <a href="https://github.com/snggle/cryptography_utils">cryptography_utils</a> project - cryptography toolkit implementing BIP-32, BIP-39 (and other) for various known blockchains</p>
 			<p>🗓 December 2023 - Now (~ 0,5 year)</p>
 		</td>
