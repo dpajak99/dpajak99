@@ -1,4 +1,4 @@
-### Hey there, I'm Dominik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> a Full Stack Developer with a 3-year track record of excellence in Flutter (Android & iOS) development.
+### Hey there, I'm Dominik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> a Full Stack Developer with a 4-year track record of excellence in Flutter (Android & iOS) development.
 
 
 I am a Full Stack Developer and Entrepreneur with a focus on web and mobile app development. My experience includes native Android app development using Java, as well as cross-platform app development with Flutter.
