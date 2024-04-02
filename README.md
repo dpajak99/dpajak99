@@ -83,8 +83,8 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 		<td>
          <img width="800px" src="assets/kira.png" alt="KIRA Blockchain Explorer (miro)" />
 			<h3>KIRA Blockchain Explorer (miro)</h3>
-			<p>As a full-stack developer, I contributed to the 'Miro' project, a Blockchain Explorer for the <a href="https://kira.network">Kira Network</a>. This tool is designed to provide transparent and real-time insights into transactions, blocks, and validators within the Kira Network. Miro stands out for its ability to navigate the complex data of a decentralized network, offering users an intuitive and comprehensive view of blockchain activities.</p>
-			<p>🗓 November 2021 - Now (~ 2 years)</p>
+			<p>As a full-stack developer, I'm contributing to the 'Miro' project, a Blockchain Explorer for the <a href="https://kira.network">Kira Network</a>. This tool is designed to provide transparent and real-time insights into transactions, blocks, and validators within the Kira Network. Miro stands out for its ability to navigate the complex data of a decentralized network, offering users an intuitive and comprehensive view of blockchain activities.</p>
+			<p>🗓 November 2021 - Now (~ 2,5 years)</p>
 		</td>
 		<td>
 			<div>
@@ -92,6 +92,48 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
            </div>
            <div>
            🔗 <a href="https://github.com/KiraCore/miro">Github</a>
+			</div>
+		</td>
+	</tr>
+    <tr>
+		<td>
+         <img width="800px" src="assets/snggle.png" alt="SNGGLE hardware wallet" />
+			<h3>SNGGLE</h3>
+			<p>As a full-stack developer, I'm contributing to the <a href="https://snggle.com/">SNGGLE</a> project - a first of it's kind hardware security & communication system. It's an entirely off-line mobile application whose purpose is to keep all your inmost secrets safe.</p>
+			<p>🗓 November 2021 - Now (~ 2,5 years)</p>
+		</td>
+		<td>
+			<div>
+           🔗 <a href="https://snggle.com">Website</a>
+           </div>
+           <div>
+           🔗 <a href="https://github.com/snggle/snggle">Github</a>
+			</div>
+		</td>
+	</tr>
+    <tr>
+		<td>
+         <img width="800px" src="assets/mrumru.png" alt="mrumru (SNGGLE)" />
+			<h3>mrumru</h3>
+			<p>As a full-stack developer, I'm contributing to the <a href="https://github.com/snggle/mrumru">mrumru</a> project - audio transmission protocol, which makes safe and convenient way to interact with the world while remaining fully offline.</p>
+			<p>🗓 June 2023 - Now (~ 1 year)</p>
+		</td>
+		<td>
+           <div>
+           🔗 <a href="https://github.com/snggle/mrumru">Github</a>
+			</div>
+		</td>
+	</tr>
+    <tr>
+		<td>
+         <img width="800px" src="assets/cryptography_utils.png" alt="cryptography_utils (SNGGLE)" />
+			<h3>mrumru</h3>
+			<p>As a full-stack developer, I'm contributing to the <a href="https://github.com/snggle/cryptography_utils">cryptography_utils</a> project - cryptography toolkit implementing BIP-32, BIP-39 (and other) for various known blockchains</p>
+			<p>🗓 December 2023 - Now (~ 0,5 year)</p>
+		</td>
+		<td>
+           <div>
+           🔗 <a href="https://github.com/snggle/cryptography_utils">Github</a>
 			</div>
 		</td>
 	</tr>
