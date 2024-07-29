@@ -2,7 +2,7 @@
 
 
 I am a Full Stack Developer and Entrepreneur with a focus on web and mobile app development. My experience includes native Android app development using Java, as well as cross-platform app development with Flutter.
-I am knowledgeable in various database systems, including Mongo and Postgres, frameworks like Spring (Java) and Vue (JS), and blockchain technologies, such as Ethereum and Cosmos Network.
+I am knowledgeable in various database systems, including Mongo and Postgres, frameworks like Spring (Java) and Vue (JS), and blockchain technologies, such as Ethereum, Solana and Cosmos Network.
 
 Currently, I am leading tarBUS, a startup that grew out of a personal project. My passion extends to open-sourcing and leveraging technology for social good.
 
