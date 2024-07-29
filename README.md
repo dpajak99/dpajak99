@@ -76,7 +76,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
          <img width="800px" src="assets/snggle.png" alt="SNGGLE hardware wallet" />
 			<h3>SNGGLE</h3>
 			<p>As a full-stack developer, I'm contributing to the <a href="https://snggle.com/">SNGGLE</a> project - a first of it's kind hardware security & communication system. It's an entirely off-line mobile application whose purpose is to keep all your inmost secrets safe.</p>
-			<p>🗓 November 2021 - Now (~ 2,5 years)</p>
+			<p>🗓 November 2022 - Now (~ 1,5 year)</p>
 		</td>
 		<td>
 			<div>
