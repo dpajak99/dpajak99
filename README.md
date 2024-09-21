@@ -1,8 +1,6 @@
 ### Hey there, I'm Dominik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> a Full Stack Developer with a 4-year track record of excellence in Flutter (Android & iOS) development.
 
-I am a Full Stack Developer with a focus on web and mobile app development, particularly using Flutter and Dart, which are my core technologies and areas of passion. I have experience in native Android development with Java, as well as cross-platform development using Flutter. I'm proficient in database systems such as MongoDB and PostgreSQL, and have worked with frameworks like Spring (Java) and Vue.js. I have practical experience with blockchain technologies including Ethereum, Bitcoin, Solana, and the Cosmos Network.
-
-In the past, I led the development of tarBUS, an app that was downloaded over 10,000 times on iOS and Android, serving a growing community for about three years. My passion extends to open-sourcing and leveraging technology for social good.
+Full Stack Developer specializing in web and mobile application development, with a strong focus on Flutter and Dart—my core technologies and areas of expertise and passion. I have extensive experience in native Android development using Java and cross-platform development with Flutter. Proficient in database systems such as MongoDB and PostgreSQL, I have also worked with frameworks like Spring (Java) and Vue.js. Additionally, I possess hands-on experience with blockchain technologies including Ethereum, Bitcoin, Solana, and the Cosmos Network. I led the development of tarBUS, an app downloaded over 10,000 times on iOS and Android, serving a growing community for approximately three years.
 
 ### Featured projects
 
