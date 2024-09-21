@@ -21,11 +21,13 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
     <tr>
         <th>Skills</th>
         <td valign="top">
-           ✨ Web and Mobile App Development<br>
-           ✨ Project Management<br>
-           ✨ Blockchain Fundamentals<br>
-           ✨ Database Systems<br>
-           ✨ Team Collaboration Tools<br>
+            <ul>
+                <li>Web and Mobile App Development</li>
+                <li>Blockchain Development</li>
+                <li>Database Systems</li>
+                <li>Project Management</li> 
+                <li>Team Collaboration Tools</li>
+            </ul>   
         </td>
     </tr>
     <tr>
@@ -35,13 +37,13 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
             <li>Linux, Ubuntu</li>
             <li>Flutter, Dart</li>
             <li>Java, Spring, Android</li>
-            <li>Blockchain: Web3, Etherum, Cosmos, Bitcoin, Solana ecosystem</li>
-            <li>Github, Gitlab, Bitbucket</li>
-            <li>Jetbrains environment: DataGrip, InteliJJ, Android Studio</li>
-            <li>Database: MySQL, PostgreSQL, MongoDB</li>
-            <li>Tools: Trello, Jira, Notion</li>
-            <li>Prototyping: Figma, Miro, Excalidraw</li>
-            <li>Communication: Slack, Discord, Telegram</li>
+            <li>**Blockchain:** Web3, Etherum, Cosmos, Bitcoin, Solana ecosystem</li>
+            <li>**Version Control:** Github, Gitlab, Bitbucket</li>
+            <li>**Jetbrains environment:** DataGrip, InteliJJ, Android Studio</li>
+            <li>**Databases:** MySQL, PostgreSQL, MongoDB</li>
+            <li>**Tools:** Trello, Jira, Notion</li>
+            <li>**Prototyping:** Figma, Miro, Excalidraw, Adobe XD</li>
+            <li>**Communication:** Slack, Discord, Telegram</li>
           </ul>
         </td>
     </tr>
