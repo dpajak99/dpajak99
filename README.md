@@ -1,45 +1,8 @@
 ### Hey there, I'm Dominik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> a Full Stack Developer with a 4-year track record of excellence in Flutter (Android & iOS) development.
 
-I am a Full Stack Developer and Entrepreneur with a focus on web and mobile app development. My experience includes native Android app development using Java,
-as well as cross-platform app development with Flutter.
-I am knowledgeable in various database systems, including Mongo and Postgres, frameworks like Spring (Java) and Vue (JS), and blockchain technologies, such as
-Ethereum, Solana and Cosmos Network.
+I am a Full Stack Developer with a focus on web and mobile app development, particularly using Flutter and Dart, which are my core technologies and areas of passion. I have experience in native Android development with Java, as well as cross-platform development using Flutter. I'm proficient in database systems such as MongoDB and PostgreSQL, and have worked with frameworks like Spring (Java) and Vue.js. I have practical experience with blockchain technologies including Ethereum, Bitcoin, Solana, and the Cosmos Network.
 
-Currently, I am leading tarBUS, a startup that grew out of a personal project. My passion extends to open-sourcing and leveraging technology for social good.
-
-<table style="width: 100%">
-	<tbody>
-    <tr>
-        <th>Skills</th>
-        <td valign="top">
-            <ul>
-                <li>Web and Mobile App Development</li>
-                <li>Blockchain Development</li>
-                <li>Database Systems</li>
-                <li>Project Management</li> 
-                <li>Team Collaboration Tools</li>
-            </ul>   
-        </td>
-    </tr>
-    <tr>
-        <th>Tools & Technology</th>
-        <td valign="top">
-         <ul>
-            <li>Linux, Ubuntu</li>
-            <li>Flutter, Dart</li>
-            <li>Java, Spring, Android</li>
-            <li>Blockchain: Web3, Etherum, Cosmos, Bitcoin, Solana</li>
-            <li>Version Control: Github, Gitlab, Bitbucket</li>
-            <li>Jetbrains environment: DataGrip, InteliJJ, Android Studio</li>
-            <li>Databases: MySQL, PostgreSQL, MongoDB</li>
-            <li>Tools: Trello, Jira, Notion</li>
-            <li>Prototyping: Figma, Miro, Excalidraw, Adobe XD</li>
-            <li>Communication: Slack, Discord, Telegram</li>
-          </ul>
-        </td>
-    </tr>
-    </tbody>
-</table>
+In the past, I led the development of tarBUS, an app that was downloaded over 10,000 times on iOS and Android, serving a growing community for about three years. My passion extends to open-sourcing and leveraging technology for social good.
 
 ### Featured projects
 
