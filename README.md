@@ -1,36 +1,47 @@
 ### Hey there, I'm Dominik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> a Full Stack Developer with a 4-year track record of excellence in Flutter (Android & iOS) development.
 
-
-I am a Full Stack Developer and Entrepreneur with a focus on web and mobile app development. My experience includes native Android app development using Java, as well as cross-platform app development with Flutter.
-I am knowledgeable in various database systems, including Mongo and Postgres, frameworks like Spring (Java) and Vue (JS), and blockchain technologies, such as Ethereum, Solana and Cosmos Network.
+I am a Full Stack Developer and Entrepreneur with a focus on web and mobile app development. My experience includes native Android app development using Java,
+as well as cross-platform app development with Flutter.
+I am knowledgeable in various database systems, including Mongo and Postgres, frameworks like Spring (Java) and Vue (JS), and blockchain technologies, such as
+Ethereum, Solana and Cosmos Network.
 
 Currently, I am leading tarBUS, a startup that grew out of a personal project. My passion extends to open-sourcing and leveraging technology for social good.
 
 #### Education & Achievements:
+
 👨‍💻 BEng. Applied Computer Science <br>
 🎓 University of Applied Sciences in Tarnów <br>
 
 <img align="right" alt="GIF" src="assets/code.gif" width="380" height="250"/>
 
 
-#### Skills
-   ✨ Web and Mobile App Development<br>
-   ✨ Project Management<br>
-   ✨ Blockchain Fundamentals<br>
-   ✨ Database Systems<br>
-   ✨ Team Collaboration Tools<br>
-
-#### Tools & Technology
-  ✨ Linux, Ubuntu<br>
-  ✨ Flutter, Dart<br>
-  ✨ Java, Spring, Android<br>
-  ✨ Blockchain: Web3, Etherum, Cosmos, Bitcoin, Solana ecosystem<br>
-  ✨ Github, Gitlab, Bitbucket<br>
-  ✨ Jetbrains environment: DataGrip, InteliJJ, Android Studio<br>
-  ✨ Database: MySQL, PostgreSQL, MongoDB<br>
-  ✨ Tools: Trello, Jira, Notion<br>
-  ✨ Prototyping: Figma, Miro, Excalidraw<br>
-  ✨ Communication: Slack, Discord, Telegram<br>
+<table>
+    <tr>
+        <td>#### Skills</td>
+        <td>#### Tools & Technology</td>
+    </tr>
+    <tr>
+        <td>
+           ✨ Web and Mobile App Development<br>
+           ✨ Project Management<br>
+           ✨ Blockchain Fundamentals<br>
+           ✨ Database Systems<br>
+           ✨ Team Collaboration Tools<br>
+        </td>
+        <td>
+          ✨ Linux, Ubuntu<br>
+          ✨ Flutter, Dart<br>
+          ✨ Java, Spring, Android<br>
+          ✨ Blockchain: Web3, Etherum, Cosmos, Bitcoin, Solana ecosystem<br>
+          ✨ Github, Gitlab, Bitbucket<br>
+          ✨ Jetbrains environment: DataGrip, InteliJJ, Android Studio<br>
+          ✨ Database: MySQL, PostgreSQL, MongoDB<br>
+          ✨ Tools: Trello, Jira, Notion<br>
+          ✨ Prototyping: Figma, Miro, Excalidraw<br>
+          ✨ Communication: Slack, Discord, Telegram<br>
+        </td>
+    </tr>
+</table>
 
 ### Let's connect!
 
@@ -45,6 +56,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 <br>
 
 ### Featured projects
+
 <table>
 	<tbody width="100%">
 	<tr>
