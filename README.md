@@ -7,6 +7,8 @@ Ethereum, Solana and Cosmos Network.
 
 Currently, I am leading tarBUS, a startup that grew out of a personal project. My passion extends to open-sourcing and leveraging technology for social good.
 
+
+
 <table>
 	<tbody width="100%">
     <tr>
@@ -29,7 +31,6 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
     <tr>
         <th>Tools & Technology</th>
         <td valign="top">
-          <br>
           ✨ Linux, Ubuntu<br>
           ✨ Flutter, Dart<br>
           ✨ Java, Spring, Android<br>
@@ -40,7 +41,6 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
           ✨ Tools: Trello, Jira, Notion<br>
           ✨ Prototyping: Figma, Miro, Excalidraw<br>
           ✨ Communication: Slack, Discord, Telegram<br>
-          <br>
         </td>
     </tr>
     </tbody>
