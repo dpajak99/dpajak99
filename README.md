@@ -67,7 +67,7 @@
                     <a href="https://github.com/snggle/cryptography_utils">☍ Github</a>&nbsp;&nbsp;&nbsp;
                 </div>
                 <h3>cryptography_utils</h3>
-                <p>As a full-stack developer, I'm contributing to the <a href="https://github.com/snggle/cryptography_utils">cryptography_utils</a> project - cryptography toolkit implementing BIP-32, BIP-39 (and other) for various known blockchains</p>
+                <p>As a full-stack developer, I'm contributing to the "cryptography_utils" project - cryptography toolkit implementing BIP-32, BIP-39 (and other) for various known blockchains</p>
                 <p><b>⏲ December 2023 - Now (~ 0,5 year)</b></p>
             </td>
         </tr>
@@ -78,7 +78,7 @@
                     <a href="https://github.com/snggle/codec_utils">☍ Github</a>&nbsp;&nbsp;&nbsp;
                 </div>
                 <h3>codec_utils</h3>
-                <p>As a full-stack developer, I'm contributing to the <a href="https://github.com/snggle/codec_utils">codec_utils</a> project - codecs collection containing a set of ready-to-use encoding algorithms for various well-known formats, including Protobuf, Bytewords, CBOR, RLP, and Uniform Resource.</p>
+                <p>As a full-stack developer, I'm contributing to the "codec_utils" project - codecs collection containing a set of ready-to-use encoding algorithms for various well-known formats, including Protobuf, Bytewords, CBOR, RLP, and Uniform Resource.</p>
                 <p><b>⏲ December 2023 - Now (~ 0,5 year)</b></p>
             </td>
         </tr>
