@@ -30,7 +30,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
   ✨ Database: MySQL, PostgreSQL, MongoDB<br>
   ✨ Tools: Trello, Jira, Notion<br>
   ✨ Prototyping: Figma, Miro, Excalidraw<br>
-  ✨  Communication: Slack, Discord<br>
+  ✨ Communication: Slack, Discord, Telegram<br>
 
 ### Let's connect!
 
