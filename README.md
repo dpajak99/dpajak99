@@ -67,19 +67,19 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
         </tr>
         <tr>
             <td>
-                <img width="800px" src="assets/kira.png" alt="KIRA Blockchain Explorer (miro)" />
+                <img width="100%" src="assets/kira.png" alt="KIRA Blockchain Explorer (miro)" />
                 <h3>KIRA Blockchain Explorer (miro)</h3>
                 <div>
                     <a href="https://kira.network/">☍ Website</a>&nbsp;&nbsp;&nbsp;
                     <a href="https://github.com/KiraCore/miro">☍ Github</a>&nbsp;&nbsp;&nbsp;
-                </div><br><br>
+                </div><br>
                 <p>As a full-stack developer, I'm contributing to the 'Miro' project, a Blockchain Explorer for the <a href="https://kira.network">Kira Network</a>. This tool is designed to provide transparent and real-time insights into transactions, blocks, and validators within the Kira Network. Miro stands out for its ability to navigate the complex data of a decentralized network, offering users an intuitive and comprehensive view of blockchain activities.</p>
                 <p>🗓 November 2021 - Now (~ 2,5 years)</p>
             </td>
         </tr>
         <tr>
             <td>
-                <img width="800px" src="assets/snggle.png" alt="SNGGLE hardware wallet" />
+                <img width="100%" src="assets/snggle.png" alt="SNGGLE hardware wallet" />
                 <h3>SNGGLE</h3>
                 <div>
                     <a href="https://snggle.com">☍ Website</a>&nbsp;&nbsp;&nbsp;
@@ -91,7 +91,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
         </tr>
         <tr>
             <td>
-                <img width="800px" src="assets/mirage.png" alt="MIRAGE | SNGGLE bridge" />
+                <img width="100%" src="assets/mirage.png" alt="MIRAGE | SNGGLE bridge" />
                 <h3>MIRAGE</h3>
                 <div>
                     <a href="https://github.com/snggle/mirage">☍ Github</a>&nbsp;&nbsp;&nbsp;
@@ -102,7 +102,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
         </tr>
         <tr>
             <td>
-                <img width="800px" src="assets/mrumru.png" alt="mrumru (SNGGLE)" />
+                <img width="100%" src="assets/mrumru.png" alt="mrumru (SNGGLE)" />
                 <h3>mrumru</h3>
                 <div>
                     <a href="https://github.com/snggle/mrumru">☍ Github</a>&nbsp;&nbsp;&nbsp;
@@ -113,7 +113,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
         </tr>
         <tr>
             <td>
-                <img width="800px" src="assets/cryptography_utils.png" alt="cryptography_utils (SNGGLE)" />
+                <img width="100%" src="assets/cryptography_utils.png" alt="cryptography_utils (SNGGLE)" />
                 <h3>cryptography_utils</h3>
                 <div>
                     <a href="https://github.com/snggle/cryptography_utils">☍ Github</a>&nbsp;&nbsp;&nbsp;
@@ -124,7 +124,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
         </tr>
         <tr>
             <td>
-                <img width="800px" src="assets/codec_utils.png" alt="codec_utils (SNGGLE)" />
+                <img width="100%" src="assets/codec_utils.png" alt="codec_utils (SNGGLE)" />
                 <h3>codec_utils</h3>
                 <div>
                     <a href="https://github.com/snggle/codec_utils">☍ Github</a>&nbsp;&nbsp;&nbsp;
@@ -135,7 +135,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
         </tr>
         <tr>
             <td>
-                <img width="800px" src="assets/tarbus.png" alt="Bus timetable in your pocket (tarBUS)" />
+                <img width="100%" src="assets/tarbus.png" alt="Bus timetable in your pocket (tarBUS)" />
                 <br><br>
                 <div>
                     <a href="https://play.google.com/store/apps/details?id=com.dpajak99.tarbus2021&hl=pl&gl=US">
@@ -152,7 +152,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
         </tr>
         <tr>
             <td>
-                <img width="800px" src="assets/ankietaobywatelska.png" alt="Ankieta Obywatelska (eng. Citizen survey) - 🥇 2nd place Hackaton project" />
+                <img width="100%" src="assets/ankietaobywatelska.png" alt="Ankieta Obywatelska (eng. Citizen survey) - 🥇 2nd place Hackaton project" />
                 <h3>Ankieta Obywatelska (eng. Citizen survey) - 🥇 2nd place Hackaton project</h3>
                 <div>
                     <a href="https://devpost.com/software/sleipnjs-ankieta-wyborcza">☍ Devpost</a>&nbsp;&nbsp;&nbsp;
