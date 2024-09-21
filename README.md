@@ -10,17 +10,6 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 <table style="width: 100%">
 	<tbody>
     <tr>
-        <td><img width="30%" height="1"></td>
-        <td><img width="70%" height="1"></td>
-    </tr>
-    <tr>
-        <th>Education</th>
-        <td valign="top">
-          👨‍💻 BEng. Applied Computer Science <br>
-            🎓 University of Applied Sciences in Tarnów <br>
-        </td>
-    </tr>
-    <tr>
         <th>Skills</th>
         <td valign="top">
             <ul>
@@ -49,20 +38,20 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
           </ul>
         </td>
     </tr>
+    <tr>
+        <th>Let's connect!</th>
+        <td>
+            <a href="https://www.linkedin.com/in/dominikpajak/">
+                <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+            </a>
+            
+            <a href="https://www.facebook.com/dpajak99/">
+                <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+            </a>
+        </td>
+    </tr>
     </tbody>
 </table>
-
-### Let's connect!
-
-<a href="https://www.linkedin.com/in/dominikpajak/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/dpajak99/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<br>
 
 ### Featured projects
 
