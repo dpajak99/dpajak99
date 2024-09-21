@@ -31,16 +31,18 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
     <tr>
         <th>Tools & Technology</th>
         <td valign="top">
-          ✨ Linux, Ubuntu<br>
-          ✨ Flutter, Dart<br>
-          ✨ Java, Spring, Android<br>
-          ✨ Blockchain: Web3, Etherum, Cosmos, Bitcoin, Solana ecosystem<br>
-          ✨ Github, Gitlab, Bitbucket<br>
-          ✨ Jetbrains environment: DataGrip, InteliJJ, Android Studio<br>
-          ✨ Database: MySQL, PostgreSQL, MongoDB<br>
-          ✨ Tools: Trello, Jira, Notion<br>
-          ✨ Prototyping: Figma, Miro, Excalidraw<br>
-          ✨ Communication: Slack, Discord, Telegram<br>
+         <ul>
+            <li>Linux, Ubuntu</li>
+            <li>Flutter, Dart</li>
+            <li>Java, Spring, Android</li>
+            <li>Blockchain: Web3, Etherum, Cosmos, Bitcoin, Solana ecosystem</li>
+            <li>Github, Gitlab, Bitbucket</li>
+            <li>Jetbrains environment: DataGrip, InteliJJ, Android Studio</li>
+            <li>Database: MySQL, PostgreSQL, MongoDB</li>
+            <li>Tools: Trello, Jira, Notion</li>
+            <li>Prototyping: Figma, Miro, Excalidraw</li>
+            <li>Communication: Slack, Discord, Telegram</li>
+          </ul>
         </td>
     </tr>
     </tbody>
@@ -63,7 +65,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 <table>
 	<tbody width="100%">
         <tr>
-            <th>Project</th>
+            <th>Featured Projects</th>
         </tr>
         <tr>
             <td>
