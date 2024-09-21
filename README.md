@@ -7,10 +7,8 @@ Ethereum, Solana and Cosmos Network.
 
 Currently, I am leading tarBUS, a startup that grew out of a personal project. My passion extends to open-sourcing and leveraging technology for social good.
 
-
-
-<table>
-	<tbody width="100%">
+<table style="width: 100%">
+	<tbody>
     <tr>
         <th>Education</th>
         <td valign="top">
@@ -37,13 +35,13 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
             <li>Linux, Ubuntu</li>
             <li>Flutter, Dart</li>
             <li>Java, Spring, Android</li>
-            <li>**Blockchain:** Web3, Etherum, Cosmos, Bitcoin, Solana ecosystem</li>
-            <li>**Version Control:** Github, Gitlab, Bitbucket</li>
-            <li>**Jetbrains environment:** DataGrip, InteliJJ, Android Studio</li>
-            <li>**Databases:** MySQL, PostgreSQL, MongoDB</li>
-            <li>**Tools:** Trello, Jira, Notion</li>
-            <li>**Prototyping:** Figma, Miro, Excalidraw, Adobe XD</li>
-            <li>**Communication:** Slack, Discord, Telegram</li>
+            <li>Blockchain: Web3, Etherum, Cosmos, Bitcoin, Solana</li>
+            <li>Version Control: Github, Gitlab, Bitbucket</li>
+            <li>Jetbrains environment: DataGrip, InteliJJ, Android Studio</li>
+            <li>Databases: MySQL, PostgreSQL, MongoDB</li>
+            <li>Tools: Trello, Jira, Notion</li>
+            <li>Prototyping: Figma, Miro, Excalidraw, Adobe XD</li>
+            <li>Communication: Slack, Discord, Telegram</li>
           </ul>
         </td>
     </tr>
@@ -64,8 +62,8 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 
 ### Featured projects
 
-<table>
-	<tbody width="100%">
+<table style="width: 100%">
+	<tbody>
         <tr>
             <th>Featured Projects</th>
         </tr>
