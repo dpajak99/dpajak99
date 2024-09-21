@@ -19,13 +19,16 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
     </tr>
     <tr>
         <td valign="top">
+           <br>
            ✨ Web and Mobile App Development<br>
            ✨ Project Management<br>
            ✨ Blockchain Fundamentals<br>
            ✨ Database Systems<br>
            ✨ Team Collaboration Tools<br>
+           <br>
         </td>
         <td valign="top">
+          <br>
           ✨ Linux, Ubuntu<br>
           ✨ Flutter, Dart<br>
           ✨ Java, Spring, Android<br>
@@ -36,6 +39,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
           ✨ Tools: Trello, Jira, Notion<br>
           ✨ Prototyping: Figma, Miro, Excalidraw<br>
           ✨ Communication: Slack, Discord, Telegram<br>
+          <br>
         </td>
     </tr>
 </table>
