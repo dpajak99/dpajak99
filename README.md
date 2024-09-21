@@ -10,6 +10,10 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 <table style="width: 100%">
 	<tbody>
     <tr>
+        <td><img width="441" height="1"></td>
+        <td><img width="441" height="1"></td>
+    </tr>
+    <tr>
         <th>Education</th>
         <td valign="top">
           👨‍💻 BEng. Applied Computer Science <br>
