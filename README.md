@@ -7,5 +7,5 @@
 
 ### Other
 
-📁 [Featured projects](https://github.com/dpajak99/dpajak99/blob/main/FEATURED_PROJECTS.md) (Click here if you want to learn more about what I do) <br>
+📁 [Featured projects](https://github.com/dpajak99/dpajak99/blob/main/FEATURED_PROJECTS.md) <--- Click here if you want to learn more about what I do ;) <br>
 📁 [Archived projects](https://github.com/dpajak99/dpajak99/blob/main/PROJECTS_ARCHIVE.md) 
