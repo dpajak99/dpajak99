@@ -24,7 +24,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
   ✨ Linux, Ubuntu<br>
   ✨ Flutter, Dart<br>
   ✨ Java, Spring, Android<br>
-  ✨ Blockchain: Web3, Etherum, Cosmos ecosystem<br>
+  ✨ Blockchain: Web3, Etherum, Cosmos, Bitcoin, Solana ecosystem<br>
   ✨ Github, Gitlab, Bitbucket<br>
   ✨ Jetbrains environment: DataGrip, InteliJJ, Android Studio<br>
   ✨ Database: MySQL, PostgreSQL, MongoDB<br>
