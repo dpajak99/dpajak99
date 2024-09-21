@@ -18,14 +18,14 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
         <td><b>Tools & Technology</b></td>
     </tr>
     <tr>
-        <td>
+        <td valign="top">
            ✨ Web and Mobile App Development<br>
            ✨ Project Management<br>
            ✨ Blockchain Fundamentals<br>
            ✨ Database Systems<br>
            ✨ Team Collaboration Tools<br>
         </td>
-        <td>
+        <td valign="top">
           ✨ Linux, Ubuntu<br>
           ✨ Flutter, Dart<br>
           ✨ Java, Spring, Android<br>
