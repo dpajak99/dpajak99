@@ -7,27 +7,27 @@ Ethereum, Solana and Cosmos Network.
 
 Currently, I am leading tarBUS, a startup that grew out of a personal project. My passion extends to open-sourcing and leveraging technology for social good.
 
-#### Education & Achievements:
-
-👨‍💻 BEng. Applied Computer Science <br>
-🎓 University of Applied Sciences in Tarnów <br>
-
 <table>
 	<tbody width="100%">
     <tr>
-        <td><b>Skills</b></td>
-        <td><b>Tools & Technology</b></td>
+        <th>Education</th>
+        <td valign="top">
+          👨‍💻 BEng. Applied Computer Science <br>
+            🎓 University of Applied Sciences in Tarnów <br>
+        </td>
     </tr>
     <tr>
+        <th>Skills</th>
         <td valign="top">
-           <br>
            ✨ Web and Mobile App Development<br>
            ✨ Project Management<br>
            ✨ Blockchain Fundamentals<br>
            ✨ Database Systems<br>
            ✨ Team Collaboration Tools<br>
-           <br>
         </td>
+    </tr>
+    <tr>
+        <th>Tools & Technology</th>
         <td valign="top">
           <br>
           ✨ Linux, Ubuntu<br>
