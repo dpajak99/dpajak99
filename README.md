@@ -38,17 +38,6 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
           </ul>
         </td>
     </tr>
-    <tr>
-        <th>Let's connect!</th>
-        <td>
-            <a href="https://www.linkedin.com/in/dominikpajak/">
-                <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-            </a>
-            <a href="https://www.facebook.com/dpajak99/">
-                <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-            </a>
-        </td>
-    </tr>
     </tbody>
 </table>
 
