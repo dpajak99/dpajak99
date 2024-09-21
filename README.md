@@ -12,7 +12,8 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 👨‍💻 BEng. Applied Computer Science <br>
 🎓 University of Applied Sciences in Tarnów <br>
 
-<table width="100%">
+<table>
+	<tbody width="100%">
     <tr>
         <td><b>Skills</b></td>
         <td><b>Tools & Technology</b></td>
@@ -42,6 +43,7 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
           <br>
         </td>
     </tr>
+    </tbody>
 </table>
 
 ### Let's connect!
