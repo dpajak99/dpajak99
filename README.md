@@ -83,6 +83,22 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
 			</div>
 		</td>
 	</tr>
+<tr>
+		<td>
+         <img width="800px" src="assets/mirage.png" alt="MIRAGE | SNGGLE bridge" />
+			<h3>MIRAGE</h3>
+			<p>As a full-stack developer, I'm contributing to the <a href="https://snggle.com/">SNGGLE</a> project - a first of it's kind hardware security & communication system. It's an entirely off-line mobile application whose purpose is to keep all your inmost secrets safe.</p>
+			<p>🗓 November 2021 - Now (~ 2,5 years)</p>
+		</td>
+		<td>
+			<div>
+           🔗 <a href="https://snggle.com">Website</a>
+           </div>
+           <div>
+           🔗 <a href="https://github.com/snggle/snggle">Github</a>
+			</div>
+		</td>
+	</tr>
     <tr>
 		<td>
          <img width="800px" src="assets/mrumru.png" alt="mrumru (SNGGLE)" />
@@ -101,6 +117,19 @@ Currently, I am leading tarBUS, a startup that grew out of a personal project. M
          <img width="800px" src="assets/cryptography_utils.png" alt="cryptography_utils (SNGGLE)" />
 			<h3>cryptography_utils</h3>
 			<p>As a full-stack developer, I'm contributing to the <a href="https://github.com/snggle/cryptography_utils">cryptography_utils</a> project - cryptography toolkit implementing BIP-32, BIP-39 (and other) for various known blockchains</p>
+			<p>🗓 December 2023 - Now (~ 0,5 year)</p>
+		</td>
+		<td>
+           <div>
+           🔗 <a href="https://github.com/snggle/cryptography_utils">Github</a>
+			</div>
+		</td>
+	</tr>
+ <tr>
+		<td>
+         <img width="800px" src="assets/codec_utils.png" alt="codec_utils (SNGGLE)" />
+			<h3>cryptography_utils</h3>
+			<p>As a full-stack developer, I'm contributing to the <a href="https://github.com/snggle/codec_utils">codec_utils</a> project - cryptography toolkit implementing BIP-32, BIP-39 (and other) for various known blockchains</p>
 			<p>🗓 December 2023 - Now (~ 0,5 year)</p>
 		</td>
 		<td>
